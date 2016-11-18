@@ -13,10 +13,12 @@ Funktionsarchitektur
 ## 1.2 Funktionsgrenze
 - Funktionsblöcke
 - Funktionale Schnittstellen
+- Logische Informationen
+- Konfigurationsdaten
 
 ## 1.3 Systemarchitektur
 - Systembausteine
-- Schnittstellen
+- Systemschnittstellen
 
 ## 1.4 Vernetzungsarchitektur (Topologie)
 - Netzknoten
@@ -37,17 +39,18 @@ Funktionsarchitektur
 
 # 2 Modeling Languages
 - Wireframes
-- FMC
+- FMC [Homepage](http://f-m-c.org/)
 - UML
 - SysML
+  - [Unterschied zu UML](http://www.oose.de/blogpost/der-eigentliche-unterschied-zwischen-sysml-und-uml/)
 - Freestyle (Powerpoint)
 
 # 3 Tools
 - UML/SysML - Modeling Tools
-  - Enterprise Architect
-  - IBM Rhapsody
-- PREEvision
-- Info-Portal
+  - Enterprise Architect [from Sparx Systems](http://www.sparxsystems.com/products/ea/)
+  - IBM Rhapsody [from IBM](http://www-03.ibm.com/software/products/de/ratirhap)
+- PREEvision [from Vector](https://vector.com/vi_preevision_de.html)
+- Info-Portal (proprietär)
 - Matlab Simulink
 - Catia, AutoCat, ...
 - Powerpoint
